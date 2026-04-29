@@ -275,7 +275,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Code
 
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
-- [RepoRose](https://github.com/MIbrahimPro/RepoRose) - Context-aware codebase mapper that saves 90% of AI tokens by providing a structural "map" of your project.
 - [poorcoder](https://github.com/vgrichina/poorcoder) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by Replit.
@@ -303,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [RepoRose](https://github.com/MIbrahimPro/RepoRose) - Context-aware codebase mapper that saves 90% of AI tokens by providing a structural "map" of your project.
 
 
 ## Image
